@@ -1,5 +1,4 @@
-# NodeJs
-expressJS with mongoDB
+# ExpressJS with mongoDB
 
 ADD  .env file :
 
